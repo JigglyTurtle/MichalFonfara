@@ -4,7 +4,7 @@ I am a high school student creating some stuff like wallpapers and (currently on
 I am working my hardest to make all my work look the best it can and I am open to all criticism and suggestions. Everything I 
 make is free and feel free to share it, but you must always credit me. I make all my wallpapers in GIMP.
 You can modify all of my work, but remember to credit me.
-Texturepacks are installed simply by double-clicking the .mcpack file after downloading it (this texturepack works only for 
+Texturepacks are installed simply by double-clicking the .mcpack file after downloading it (this texturepack is created for 
 the RTX beta of Windows 10 edition, but will also work for regular windows 10 edition, but you won't get the cool efects RTX 
 provides).
 I started my texturepack based on u/thecivilhulk's RTX vanilla conversion pack, but I am working towards making a full 
